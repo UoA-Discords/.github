@@ -1,4 +1,4 @@
-[![readmebanner](https://media.discordapp.net/attachments/590667063165583409/1014141165852967062/banner4.png)](https://uoa-discords.com/)
+[![readmebanner](https://media.discordapp.net/attachments/590667063165583409/1014147073718890506/banner5.png)](https://uoa-discords.com/)
 <h1 align="center">UoA Discords</br> https://uoa-discords.com/
 <br/><br/></h1>
 
